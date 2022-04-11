@@ -1,0 +1,15 @@
+nodemon start
+
+Set Up
+    - Menggunakan express-generator
+
+Library
+    - dotenv require di app.js
+    - Sequelize & Sequelize cli
+        - Membuat sekema migration documentation => https://sequelize.org/master/manual/model-basics.html#data-types
+        - membuat model
+
+    - fastest-validator or express-validator
+
+    - cors => untuk menangani untuk menangani data cors yang di akibatkan oleh default browser/system
+        
